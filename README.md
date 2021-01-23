@@ -156,8 +156,9 @@ zipp==1.0.0
 
   ```
 
-## Python Version
-  Python2 and Its Supported Package PIP, Developed on python2 and Reconfigured on Python3
+##  Version
+  - Python : 3.7
+  - Django : 2.1
 ## Features
 - Manage Books – In this feature the user can manage all the information of the books including, “add new book” , “update or modify book” and “delete book“.
 - Manage Users – In this feature the admin can manage all the information of users including, “add new user” , “update or modify user” and “delete user“.
