@@ -168,10 +168,10 @@ zipp==1.0.0
 Linux(Ubuntu).
 
 ## Method:
-library management – This method is the main method of the system project.
-management – In this method which is the management of the library system..
-media – This method you can found the uploading media like “photos” or other media file.
-template – This method id for the template design of the system including, “HTML“, “CSS” and etc.
+- library management – This method is the main method of the system project.
+- management – In this method which is the management of the library system..
+- media – This method you can found the uploading media like “photos” or other media file.
+- template – This method id for the template design of the system including, “HTML“, “CSS” and etc.
 
 
 ## Installation
