@@ -21,8 +21,8 @@ template – This method id for the template design of the system including, “
 
 ## How to Run This Projects
 Step1:- Clone it.
-Step2:- pip install -r requirements.txt (Python 2), or pip3 install -r requirements.txt (Python 3)
-Step3:- Python3 manage.py makemigrations
-Step4:- Pyhon3 manage.py migrate
-Step5:- Python3 manage.py createsuperuser
-Step6:- Python3 manage.py runserver
+Step2:- { pip install -r requirements.txt (Python 2), or pip3 install -r requirements.txt (Python 3) }
+Step3:- { Python3 manage.py makemigrations }
+Step4:- { Pyhon3 manage.py migrate }
+Step5:- { Python3 manage.py createsuperuser }
+Step6:- { Python3 manage.py runserver }
