@@ -206,4 +206,4 @@ Linux(Ubuntu).
   Please make sure to update tests as appropriate.
 
 ## License
-[MIT](https://)
+[MIT](https://github.com/erronny/Django-Bookcollection/blob/main/LICENSE)
