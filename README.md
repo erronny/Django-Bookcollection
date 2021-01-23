@@ -156,15 +156,16 @@ zipp==1.0.0
 
   ```
 
-
+## Python Version
+  Python2 and Its Supported Package PIP, Developed on python2 and Reconfigured on Python3
 ## Features
-Manage Books – In this feature the user can manage all the information of the books including, “add new book” , “update or modify book” and “delete book“.
-Manage Users – In this feature the admin can manage all the information of users including, “add new user” , “update or modify user” and “delete user“.
-Manage Students – In this feature the user can manage the list of the students.
-Login/Logout System – In this feature where the user can login and logout to the system.
+- Manage Books – In this feature the user can manage all the information of the books including, “add new book” , “update or modify book” and “delete book“.
+- Manage Users – In this feature the admin can manage all the information of users including, “add new user” , “update or modify user” and “delete user“.
+- Manage Students – In this feature the user can manage the list of the students.
+- Login/Logout System – In this feature where the user can login and logout to the system.
 
 ## Operating System
-Developed on Windows and Configured on Linux So.
+Linux(Ubuntu).
 
 ## Method:
 library management – This method is the main method of the system project.
@@ -200,7 +201,7 @@ template – This method id for the template design of the system including, “
   Python3 manage.py runserver 
   ```
   ## Contributing
-   Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+   Pull requests are not elligble before discuss. For major changes, please open an issue first to discuss what you would like to change.
 
   Please make sure to update tests as appropriate.
 
